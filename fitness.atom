@@ -29,11 +29,12 @@
 <link rel="http://opds-spec.org/facet" title="Spanish" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=es" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="French" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=fr" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="Italian" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=it" opds:activeFacet="false" opds:facetGroup="Language"/>
+
 <entry>
-<title>The Adventures of Sherlock Holmes</title>
-<id>https://www.feedbooks.com/book/1421</id>
+<title>The 7 Keys To Body Transformation</title>
+<id>https://www.feedbooks.com/book/1</id>
 <author>
-  <name>Arthur Conan Doyle</name>
+  <name></name>
   <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
 </author>
 <published>2007-07-19T13:36:30Z</published>
@@ -41,16 +42,239 @@
 <dcterms:language>en</dcterms:language>
 <dcterms:publisher>Feedbooks</dcterms:publisher>
 <dcterms:issued>1892</dcterms:issued>
-<summary>The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.
-These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.</summary>
+<summary>If certain experts are to be believed, we are currently facing a
+crisis the likes of which we have never seen before; we are being faced with a global obesity epidemic.
+Since 1980, the number of people suffering from obesity has
+literally more than doubled, with there being 1.4
+billion overweight adults, and 500 million who can be
+considered as obese.
+As far as children go, the numbers just keep on climbing, with
+certain countries seeing more than a quarter of their kids
+suffering from obesity. Long story short, if things keep on
+going the way they do, then in a few decades most of the
+world's population will be obese, if of course we even manage
+to survive that long. In order to fight this great plague it is
+important what it stems from… just like with any huge
+problem, there are numerous causes in play here.
+For starters, we are leading increasingly sedentary lifestyles.
+Long gone are the days when we ploughed fields twelve hours
+a day or dug up coal in mines… long gone are the days when
+most people had to dedicate</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="Fiction" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Mystery &amp; Detective" term="FBFIC022000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Short Stories" term="FBFIC029000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Strategy" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Fitness" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://covers.feedbooks.net/book/1421.jpg?size=large"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://covers.feedbooks.net/book/1421.jpg"/>
-<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://www.feedbooks.com/book/1421.epub"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/7keys.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/7keys.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/7keys.epub"/>
 <link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
 </entry>
+
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/2</id>
+<author>
+  <name>10 Myths about dieting, exercising and overall weight loss routines</name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>Achieving and maintaining optimum health is not an easy task,
+but with the right knowledge, it can be very simple.
+Many people fail at trying to lose weight, simply because they
+do not understand how their body’s work and what they need
+to do to trick the body into letting go of unwanted body fat.
+As discussed in before, we are not actually designed to have
+abs, but with the right eating plan and exercise routine, anyone
+of any size, shape, sex or race can have abs and the body
+they have always wanted.
+My mission is to provide you with the information you need to
+make educated decisions on a daily basis so that you can
+achieve the body you want and enjoy all the benefits of being
+the best you can be.
+Yours in Health,</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="Tips" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Myth" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/10_Myths.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+<entry>
+<title>10 Nutrition Tips</title>
+<id>https://www.feedbooks.com/book/3</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>Maintaining a healthy lifestyle doesn’t take as much effort as
+you may think. Watching the habits of other healthy people,
+you might say to yourself, “I could never do all of that.”
+But that’s just not true!
+A person of optimal health leads a different daily routine than
+most people. Their lives are comprised of many, smal , healthy
+habits that they continue to fol ow every day. These habits
+aren’t complicated, and you are more than able to incorporate
+them into your own fitness and food planning.
+In fact, living a healthy lifestyle can often simplify your life in
+ways you couldn’t begin to understand. It takes a little bit of
+effort, some motivation, and a sincere want to change the way
+you live, 10 Nutrition Tips for Everyday Health: Special Report
+4
+move, and eat. If you have those attributes, replacing the old
+habits with the new wil be simple.
+This report is for anyone looking for easy ways to make their
+lives healthier and happier!
+Let’s look at some of the easiest ways that you can become a
+healthier person implementing these daily habits!</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="Tips" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Nutrition" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/10-Nutrition-Tips.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/10-Nutrition-Tips.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/10-Nutrition-Tips.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title>A Healthier You</title>
+<id>https://www.feedbooks.com/book/4</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>It’s no secret that a healthy lifestyle is beneficial for everyone.
+Creating a positive mental state, making healthy food choices,
+and partaking in regular physical activity are all major factors
+to your overall well-being. When you can maintain a balanced
+life that includes a healthy mind, body and soul, you’ll find that
+the external events of your life – all that stuff you can’t control
+– have much less effect on your happiness and success in life.
+Your health does not just make your body look better and
+help to ward off disease and disorders, it provides a solid
+foundation to the reality that you can create a better life and it
+doesn’t have anything to do with what is happening outside of
+you.
+Taking control of your health is most effective when you take a
+look at yourself with a holistic perspective. The holistic approach
+to health takes into account the complete person; their physical,
+psychological and social needs which directly relate to their
+spiritual selves. Basically, you would improve your overall
+well-being by integrating aspects of every part of yourself and
+by not just eating right and getting exercise. Your mind needs
+stimulation, you need social interaction and solid relationships,
+and you need to nurture your spiritual side along with
+honoring the operation of your body’s physical aspects.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/A-Healthier-You.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/A-Healthier-You.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/A Healthier You.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+<entry>
+<title>Aerobics For Fitness</title>
+<id>https://www.feedbooks.com/book/5</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>We are always reminded that exercise could do wonders for
+the body. Aerobics, a kind of exercise which helps your body
+use more oxygen while maintaining your target heart range,
+can definitely help a person live longer and healthier. There are
+studies showing that 30 minutes of aerobics every day would
+benefit the body a lot.
+Performing regular aerobic exercises would gradually make the
+heart larger. A bigger and larger heart would be able to
+provide more oxygenated blood which can be used by the
+muscles. This could also mean more energy whether for longer
+or shorter periods of exercise or physical activities.
+• Weight loss
+Aerobics and any kind of physical activity could surely help
+control and reduce weight. It is most successful when combined
+with a healthy diet. Including physical activity and exercise with
+your daily routine will surely help you achieve better built,
+healthy lifestyle and increase in energy.
+Aerobics would help your body burn the calories consumed
+and prevent them from becoming accumulated fats.
+• Stronger resistance against sickness
+Aerobics can boost the body’s immune system. This would
+prevent il nesses like colds and flu from happening. It could
+also help the body manage existing health problems like high
+blood pressure and blood sugar. Excessive weight and obesity
+could cause serious health problems like diabetes, heart disease
+and stroke. Aerobics could help in reducing the risks of these
+diseases. This kind of exercise could help in clearing the arteries
+of the heart from bad cholesterol.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/Aerobics-For-Fitness.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/Aerobics-For-Fitness.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Aerobics For Fitness.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title>Beautiful Body Essentials</title>
+<id>https://www.feedbooks.com/book/6</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>Most daily physical activity is looked at as light to moderate in
+intensity level. There are particular health advantages that may
+only be achieved with more strenuous physical action, however.
+Betterment in cardiovascular fitness is one illustration. Jogging
+or running supplies greater cardiovascular advantage than
+walking at a leisurely pace, for example.
+In addition, enhanced fitness doesn't simply depend on what
+physical activity you do, it likewise depends upon how
+vigorously and for how long you carry on the activity. That’s
+why it’s crucial to exercise inside your target heart rate range
+when doing cardio, for instance, to reach a certain level of
+intensity level. Get all the info you need here.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/BeautifulBodyEssentials.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/BeautifulBodyEssentials.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/BeautifulBodyEssentials.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
 </feed>

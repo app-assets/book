@@ -43,26 +43,25 @@
 <link rel="http://opds-spec.org/facet" title="Biographical" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC041000" thr:count="8" opds:facetGroup="Fiction"/>
 
 <entry>
-<title>Romeo and Juliet</title>
-<id>https://www.feedbooks.com/book/2936</id>
+<title></title>
+<id>https://www.feedbooks.com/book/1421</id>
 <author>
-  <name>William Shakespeare</name>
-  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=494&amp;lang=en</uri>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
 </author>
-<published>2008-09-18T07:59:29Z</published>
-<updated>2020-08-27T07:58:31Z</updated>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
 <dcterms:language>en</dcterms:language>
 <dcterms:publisher>Feedbooks</dcterms:publisher>
-<dcterms:issued>1597</dcterms:issued>
-<summary>Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage "star-cross'd lovers" whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal "young lovers". (From Wikipedia)</summary>
-<category label="Fiction" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Drama" term="FBDRA000000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Romance" term="FBFIC027000" scheme="http://www.feedbooks.com/categories"/>
-<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/2936"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://covers.feedbooks.net/book/2936.jpg?size=large"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://covers.feedbooks.net/book/2936.jpg"/>
-<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://www.feedbooks.com/book/2936.epub"/>
-<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/2936.atom"/>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href=""/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href=""/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
 </entry>
 
 </feed>

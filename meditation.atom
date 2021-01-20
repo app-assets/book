@@ -30,10 +30,10 @@
 <link rel="http://opds-spec.org/facet" title="French" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=fr" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="Italian" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=it" opds:activeFacet="false" opds:facetGroup="Language"/>
 <entry>
-<title>The Adventures of Sherlock Holmes</title>
-<id>https://www.feedbooks.com/book/1421</id>
+<title></title>
+<id>https://www.feedbooks.com/book/7</id>
 <author>
-  <name>Arthur Conan Doyle</name>
+  <name></name>
   <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
 </author>
 <published>2007-07-19T13:36:30Z</published>
@@ -41,16 +41,127 @@
 <dcterms:language>en</dcterms:language>
 <dcterms:publisher>Feedbooks</dcterms:publisher>
 <dcterms:issued>1892</dcterms:issued>
-<summary>The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.
-These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.</summary>
+<summary></summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="Fiction" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Mystery &amp; Detective" term="FBFIC022000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Short Stories" term="FBFIC029000" scheme="http://www.feedbooks.com/categories"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://covers.feedbooks.net/book/1421.jpg?size=large"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://covers.feedbooks.net/book/1421.jpg"/>
-<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://www.feedbooks.com/book/1421.epub"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
 <link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
 </entry>
+
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/8</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/9</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/10</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/11</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title></title>
+<id>https://www.feedbooks.com/book/12</id>
+<author>
+  <name></name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary></summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
 </feed>
