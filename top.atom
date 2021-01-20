@@ -22,7 +22,7 @@
 <link rel="http://opds-spec.org/facet" title="Nutrition" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/nutrition.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
 <link rel="http://opds-spec.org/facet" title="Meditation" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/meditation.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
 <entry>
-<title>The Adventures of Sherlock Holmes</title>
+<title>2 The Adventures of Sherlock Holmes</title>
 <id>https://www.feedbooks.com/book/1421</id>
 <author>
   <name>Arthur Conan Doyle</name>
