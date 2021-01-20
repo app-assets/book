@@ -30,7 +30,7 @@
 <link rel="http://opds-spec.org/facet" title="French" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=fr" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="Italian" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=it" opds:activeFacet="false" opds:facetGroup="Language"/>
 <entry>
-<title>The Adventures of Sherlock Holmes 2</title>
+<title>The Adventures of Sherlock Holmes</title>
 <id>https://www.feedbooks.com/book/1421</id>
 <author>
   <name>Arthur Conan Doyle</name>
