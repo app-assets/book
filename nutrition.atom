@@ -53,7 +53,7 @@ frequent routine would be something healthy to indulge in as
 opposed to wasting the same amount of time on something
 that will not benefit the individual.</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Workout" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/ripped-with-cardio.jpg"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/ripped-with-cardio.jpg"/>
@@ -89,7 +89,7 @@ need to lose fat and they just won’t work for you. You want
 to have a body like the one you see in those commercials, but
 somehow it seems out of reach for you.</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Weight" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/gaining-weight-101.jpg"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/gaining-weight-101.jpg"/>
@@ -130,7 +130,7 @@ command of your life? In this eBook, we see how you are
 able to make your life much more optimal simply by making a
 point that you eat correctly.</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Food" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/eating-for-a-healthy-life.jpg"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/eating-for-a-healthy-life.jpg"/>

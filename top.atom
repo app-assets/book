@@ -43,7 +43,7 @@
 <link rel="http://opds-spec.org/facet" title="Biographical" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC041000" thr:count="8" opds:facetGroup="Fiction"/>
 
 <entry>
-<title></title>
+<title>Insider Training</title>
 <id>https://www.feedbooks.com/book/1421</id>
 <author>
   <name></name>
@@ -54,13 +54,45 @@
 <dcterms:language>en</dcterms:language>
 <dcterms:publisher>Feedbooks</dcterms:publisher>
 <dcterms:issued>1892</dcterms:issued>
-<summary></summary>
+<summary>When you make the decision to hire a personal trainer, it can
+be a little overwhelming. You’re trusting them to give your
+current lifestyle a complete overhaul and help to transform you
+into a stronger, healthier person.
+It’s okay to be nervous when taking such a big and important
+step.
+Before you do though, you’re going to want to have a good
+idea of what you can expect.
+It’s not easy to ask someone else to help you change for the
+better. After al , as humans, we tend to be creatures of habit.
+But sometimes, it’s important to step back and take a closer
+look at those habits, acknowledging the fact that they aren’t
+always as good as they could be.
+Recognizing your faults, and creating that motivation for change
+is why having a personal trainer can be instrumental in your
+success.
+Insider Training: 10 Personal Trainer Tips for Beginner Clients
+4
+Personal trainers are on the outside looking in, and with their
+knowledge and skil set, they can tweak the smal things you
+may not notice, to make a greater impact then you could ever
+imagine.
+Keep in mind that they are health professionals and their
+advice is usual y based on scientific research and proven
+theories.
+This report is not only for those of you who need to know
+what to expect from a good, experienced personal trainer, but
+it is also for the people out there just beginning to dip their
+toes into the idea of self-improvement and better fitness and
+nutritional habits.
+Let’s take an inside look into some of the tips and tricks that
+personal trainers share with their clients!</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Fitness" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Tranining" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image" href=""/>
-<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href=""/>
-<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href=""/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="insider-training.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="insider-training.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Insider-Training.epub"/>
 <link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
 </entry>
 

@@ -88,7 +88,8 @@ and then did not follow those programs through to the end.
 The people who leave midway do not see the benefits, of
 course, and the commercial fitness enterprises lose their face.</summary>
 <schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Mindfulness" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Fitness" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
 <link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/the-proper-mind.jpg"/>
 <link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/the-proper-mind.jpg"/>
