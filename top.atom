@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" xmlns:odl="http://opds-spec.org/odl" xmlns:schema="http://schema.org">
-  <id>https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000</id>
+  <id>https://raw.githubusercontent.com/app-assets/book/master/top.atom</id>
   <title>Short Stories</title>
   <updated>2021-01-20T06:10:23Z</updated>
   <icon>/favicon.ico</icon>
@@ -9,14 +9,14 @@
     <uri>http://www.feedbooks.com</uri>
     <email>help@demarque.com</email>
   </author>
-  <link rel="self" title="Most Popular" type="application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000"/>
+  <link rel="self" title="Most Popular" type="application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8" href="https://raw.githubusercontent.com/app-assets/book/master/top.atom"/>
   <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" title="Home" href="https://catalog.feedbooks.com/catalog/index.atom"/>
   <link rel="search" href="https://catalog.feedbooks.com/opensearch.xml" type="application/opensearchdescription+xml" title="Search on Feedbooks"/>
   <link rel="http://opds-spec.org/shelf" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Bookshelf" href="https://www.feedbooks.com/user/bookshelf.atom"/>
 <opensearch:totalResults>50</opensearch:totalResults>
 <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
 <opensearch:startIndex>1</opensearch:startIndex>
-<link rel="next" title="Next" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;page=2"/>
+<link rel="next" title="Next" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://raw.githubusercontent.com/app-assets/book/master/top.atom&amp;page=2"/>
 <link rel="http://opds-spec.org/facet" title="" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/top.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
 <link rel="http://opds-spec.org/facet" title="Fitness" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/fitness.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
 <link rel="http://opds-spec.org/facet" title="Nutrition" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/nutrition.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:app="http://www.w3.org/2007/app" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" xmlns:odl="http://opds-spec.org/odl" xmlns:schema="http://schema.org">
-  <id>https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom</id>
+  <id>https://raw.githubusercontent.com/app-assets/book/master/homepage_selection.atom</id>
   <title>New &amp; Noteworthy</title>
   <updated>2021-01-20T06:16:41Z</updated>
   <icon>/favicon.ico</icon>
@@ -9,7 +9,7 @@
     <uri>http://www.feedbooks.com</uri>
     <email>help@demarque.com</email>
   </author>
-  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8" href="https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom"/>
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8" href="https://raw.githubusercontent.com/app-assets/book/master/homepage_selection.atom"/>
   <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" title="Home" href="https://catalog.feedbooks.com/catalog/index.atom"/>
   <link rel="search" href="https://catalog.feedbooks.com/opensearch.xml" type="application/opensearchdescription+xml" title="Search on Feedbooks"/>
   <link rel="http://opds-spec.org/shelf" type="application/atom+xml;profile=opds-catalog;kind=acquisition" title="Bookshelf" href="https://www.feedbooks.com/user/bookshelf.atom"/>
