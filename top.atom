@@ -16,10 +16,31 @@
 <opensearch:totalResults>3479</opensearch:totalResults>
 <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
 <opensearch:startIndex>1</opensearch:startIndex>
-<link rel="http://opds-spec.org/facet" title="" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/top.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
-<link rel="http://opds-spec.org/facet" title="Fitness" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/fitness.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
-<link rel="http://opds-spec.org/facet" title="Nutrition" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/nutrition.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
-<link rel="http://opds-spec.org/facet" title="Meditation" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://github.com/app-assets/book/raw/master/meditation.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
+<link rel="next" title="Next" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?page=2"/>
+<link rel="http://opds-spec.org/sort/new" title="New Releases" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?sort=new"/>
+<link rel="http://opds-spec.org/facet" title="Most Popularrrrr" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom" opds:activeFacet="true" opds:facetGroup="Sort"/>
+<link rel="http://opds-spec.org/facet" title="New Releases" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://catalog.feedbooks.com/publicdomain/browse/recent.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
+<link rel="http://opds-spec.org/facet" title="Awards" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://catalog.feedbooks.com/publicdomain/browse/awards.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
+<link rel="http://opds-spec.org/facet" title="New &amp; Noteworthy" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom" opds:activeFacet="false" opds:facetGroup="Sort"/>
+<link rel="http://opds-spec.org/facet" title="Short Stories" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000" thr:count="1768" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Science Fiction" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000" thr:count="1135" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Action &amp; Adventure" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000" thr:count="322" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Mystery &amp; Detective" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000" thr:count="252" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Fantasy" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC009000" thr:count="171" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Romance" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC027000" thr:count="166" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Horror" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000" thr:count="144" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Westerns" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC033000" thr:count="116" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Historical" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC014000" thr:count="75" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Literary" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC019000" thr:count="69" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Humorous" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC016000" thr:count="65" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Occult &amp; Supernatural" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC024000" thr:count="56" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Drama" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBDRA000000" thr:count="50" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="War &amp; Military" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC032000" thr:count="49" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Thrillers" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC031000" thr:count="42" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Juvenile &amp; Young Adult" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBJUV000000" thr:count="22" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Fairy Tales, Folk Tales &amp; Mythology" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC010000" thr:count="20" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Poetry" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBPOE000000" thr:count="18" opds:facetGroup="Fiction"/>
+<link rel="http://opds-spec.org/facet" title="Biographical" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC041000" thr:count="8" opds:facetGroup="Fiction"/>
 
 <entry>
 <title>Romeo and Juliet</title>
@@ -43,28 +64,5 @@
 <link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://www.feedbooks.com/book/2936.epub"/>
 <link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/2936.atom"/>
 </entry>
-<entry>
-<title>The Adventures of Sherlock Holmes</title>
-<id>https://www.feedbooks.com/book/1421</id>
-<author>
-  <name>Arthur Conan Doyle</name>
-  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
-</author>
-<published>2007-07-19T13:36:30Z</published>
-<updated>2020-09-21T15:35:02Z</updated>
-<dcterms:language>en</dcterms:language>
-<dcterms:publisher>Feedbooks</dcterms:publisher>
-<dcterms:issued>1892</dcterms:issued>
-<summary>The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.
-These are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.</summary>
-<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
-<category label="Fiction" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Mystery &amp; Detective" term="FBFIC022000" scheme="http://www.feedbooks.com/categories"/>
-<category label="Short Stories" term="FBFIC029000" scheme="http://www.feedbooks.com/categories"/>
-<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://covers.feedbooks.net/book/1421.jpg?size=large"/>
-<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://covers.feedbooks.net/book/1421.jpg"/>
-<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://www.feedbooks.com/book/1421.epub"/>
-<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
-</entry>
+
 </feed>
