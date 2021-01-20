@@ -31,5 +31,70 @@
 <link rel="http://opds-spec.org/facet" title="Italian" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=it" opds:activeFacet="false" opds:facetGroup="Language"/>
 
 
+<entry>
+<title>Meditation 101</title>
+<id>https://www.feedbooks.com/book/9</id>
+<author>
+  <name> </name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>The most well-known benefit of meditation is stress-relief.
+Different forms of meditation have been used for literally
+thousands of years to quickly, and sometimes instantly, relieve
+and remove stress and anxiety.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="Meditation" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Mindfulness" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<category label="Health" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/Meditation-101.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/Meditation-101.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Meditation101.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title>The Proper Mindset For Health &amp; Fitness</title>
+<id>https://www.feedbooks.com/book/10</id>
+<author>
+  <name> </name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>We hear it a lot – Someone takes a gym membership and
+then lets it die without a whimper. Someone takes up a diet
+and then returns to gluttony the next weekend. Someone does
+a great deal of expensive shopping from big-name brands for
+morning routines and then wears the filthily expensive tracksuit
+for lounging around at home. This bug is all around us –
+People make grandiose plans to start health and fitness
+programs and then let go of them at the drop of a hat. What
+goes wrong?
+When we hear about the failure of diets or gym programs all
+around us, usually it isn’t their fault. Usually it is the fault of
+the people who started with much hoo-ha about going through
+these programs, telling all their friends and colleagues about it,
+and then did not follow those programs through to the end.
+The people who leave midway do not see the benefits, of
+course, and the commercial fitness enterprises lose their face.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/the-proper-mind.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/the-proper-mind.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/The Proper Mindset For Health &amp; Fitness.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
 
 </feed>

@@ -29,6 +29,113 @@
 <link rel="http://opds-spec.org/facet" title="Spanish" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=es" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="French" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=fr" opds:activeFacet="false" opds:facetGroup="Language"/>
 <link rel="http://opds-spec.org/facet" title="Italian" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&amp;lang=it" opds:activeFacet="false" opds:facetGroup="Language"/>
+<entry>
+<title>Ripped with Cardio</title>
+<id>https://www.feedbooks.com/book/13</id>
+<author>
+  <name> </name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>The Revolutionary Fitness Training For Fitter &amp; Stronger Body
+desired results and will help to keep the individual focused and
+motivated.
+As the desired results become more evident, there may be a
+need to step up the cardio exercise program to be able to
+achieve even more form the workout sessions. Putting in more
+time or more sessions will help the individual gain more muscle
+mass and lessen the body fat content. Besides this, a more
+frequent routine would be something healthy to indulge in as
+opposed to wasting the same amount of time on something
+that will not benefit the individual.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/ripped-with-cardio.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/ripped-with-cardio.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Ripped with Cardio.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
 
+
+<entry>
+<title>Gaining Weight 101</title>
+<id>https://www.feedbooks.com/book/17</id>
+<author>
+  <name> </name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>Being a
+skinny guy is challenging enough in a world where everyone
+else is at a
+“normal” weight, but when more than half of the people in this
+country are overweight it’s downright tough. Everywhere you
+look there are weight loss products, on TV, magazines,
+billboards and in every store you shop in. Fat free, low-fat, low
+carb…this stuff is everywhere, taunting you. The message all
+around you is “lose weight, lose weight”, but that’s the last
+thing you want to do. Most products that are designed to help
+people achieve their ideal body are created for people who
+need to lose fat and they just won’t work for you. You want
+to have a body like the one you see in those commercials, but
+somehow it seems out of reach for you.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/gaining-weight-101.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/gaining-weight-101.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Gaining Weight 101.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
+
+
+<entry>
+<title>Eating For A Healthy Life</title>
+<id>https://www.feedbooks.com/book/18</id>
+<author>
+  <name> </name>
+  <uri>https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&amp;lang=en</uri>
+</author>
+<published>2007-07-19T13:36:30Z</published>
+<updated>2020-09-21T15:35:02Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:publisher>Feedbooks</dcterms:publisher>
+<dcterms:issued>1892</dcterms:issued>
+<summary>In simple terms the body has two very different and complex
+systems of energy producing sources. As energy is vital to the
+very existence of human activity and survival the two energy
+style depend on each other for support. This book shows you
+what foods give you the most energy.
+It occurs so very frequently - we resolve to go on with a
+health and physical fitness program with zest and likely much
+fanfare too; however in the first week of going into the plan,
+everything peters out.
+Why is it that we don’t stick with the diet plans, the morning
+jogging plans, the physical exercise plans that we make?
+And what may we do to ensure we keep going with these
+plans, for our own sake and for the sake of the individuals
+that are dependent on us?
+Are you eating simply to satisfy your appetite or to make your
+taste buds happy? Or are you eating in order to take better
+command of your life? In this eBook, we see how you are
+able to make your life much more optimal simply by making a
+point that you eat correctly.</summary>
+<schema:Series schema:position="9" schema:name="Sherlock Holmes" schema:url="https://catalog.feedbooks.com/series/9"/>
+<category label="" term="FBFIC000000" scheme="http://www.feedbooks.com/categories"/>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://www.feedbooks.com/book/1421"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="https://github.com/app-assets/book/raw/master/epub/eating-for-a-healthy-life.jpg"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="https://github.com/app-assets/book/raw/master/epub/eating-for-a-healthy-life.jpg"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="/Eating For A Healthy Life.epub"/>
+<link type="application/atom+xml;profile=opds-catalog;type=entry" rel="alternate" title="Full entry" href="https://catalog.feedbooks.com/book/1421.atom"/>
+</entry>
 
 </feed>
